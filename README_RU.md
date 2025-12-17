@@ -23,7 +23,7 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/your-username/Auto_Dev_Team.git
+git clone https://github.com/AkiraK000/Auto_Dev_Team.git
 cd Auto_Dev_Team
 ```
 
